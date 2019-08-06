@@ -54,8 +54,9 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/anujrajput"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://anujrajput.com"
+  # resume_website_url:           "http://anujrajput.com"
   # resume_medium_url:            "https://medium.com/@anujrajput"
+  resume_angel_url:             "https://angel.co/anujrajput"
 resume_print_social_links:      true
 
 # Design settings

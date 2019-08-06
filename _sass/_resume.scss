@@ -129,6 +129,14 @@
         }
     }
 
+    .icon-link-item-angel {
+        @extend .icon-link-item;
+
+        &:hover .icon path {
+            fill: #0084b4;
+        }
+    }
+
     .icon-link {
         display: inline-block;
 
