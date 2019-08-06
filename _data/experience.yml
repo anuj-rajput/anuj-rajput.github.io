@@ -1,19 +1,95 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Senior iOS Developer at Wooplr
+- #company: Wooplr
+  logo: wooplr.png
+  link: https://wooplr.com
+  position: Senior iOS Developer
+  duration: Aug, 2017 &mdash; Mar, 2019
+  summary: Wooplr is the largest online network of social sellers which empowers them to sell using their phones. My core responsibilities&colon; <ul class="resume-item-list"><li><strong>Product Management</strong></li><ul class="resume-item-list"><li><strong>Earnings Framework</strong>&colon; Conceptualised and built a framework for seller earning commissions and rewards</li><li><strong>Social Sharing</strong>&colon; Developed a model for social sharing which increased the sharing of the products and catalogues by a significant amount</li><li><strong>Communication</strong>&colon; Designed communication triggers and content for Email, SMS and In-app messaging, Notifications for the sellers and the customers on the platform</li></ul><li><strong>Development</strong></li><ul class="resume-item-list"><li>Developing the iOS App for sellers from scratch</li><li>Converting design specs into usable product</li></ul><li><strong>UX Research</strong></li><ul class="resume-item-list"><li>Understanding business goals.</li><li>Empathising with the customer (sellers) and understanding their needs, ambitions and goals by conducting studies and customer interviews.</li><li>Identifying problems in their workflows.</li></ul><li><strong>UX Design</strong></li><ul class="resume-item-list"><li>Designed user flows and wireframes</li></ul>
+  keywords:
+    - Product Management
+    - Objective-C
+    - Swift
+    - Realm
+    - Fastlane
+    - MVC
+    - Firebase
+    - Localization
+    - Push Notifications
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Senior iOS Developer at MYOLO
+- #company: Vicinage Networks
+  logo: myolo.png
+  link: https://myolo.in
+  position: Senior iOS Developer
+  duration:  Aug, 2016 &mdash; Jul, 2017
+  summary: <li>Understanding the existing complex backend architecture and transforming the available APIs into a well architectured iOS App</li><li>Designed, developed and delivered the iOS App from scratch</li><li>Helped the team understand the business by identifying the problems and coming up with solutions</li>
+  keywords:
+    - Objective-C
+    - Swift
+    - MVC
+    - Fastlane
+    - Location Services
+    - Maps
+    - Firebase
+    - Analytics
+    - Social Login
+    - Messaging
+    - Push Notifications
 
+# Senior Software Engineer at Teamie
+- #company: Teamie
+  logo: teamie.png
+  link: https://theteamie.com
+  position: Senior Software Engineer
+  duration:  Jul, 2012 &mdash; Jul, 2016
+  summary: Teamie is a cloud-based collaborative learning platform. My responsibilities included&colon; <ul class="resume-item-list"><li>Developing and maintaining the core product on iOS</li><li>Building reusable frameworks and common libraries for use in different apps</li><li>Developing and maintaining side projects for clients</li><li>Ideated, planned, designed and developed a side project for Ministry of Education, Malaysia. The project was used by ~1 million school teachers and educators across Malaysia</li><li>Hiring, leading and mentoring the team</li></ul>
+  keywords: 
+    - Objective-C
+    - Swift
+    - Core Data
+    - Manual Memory Management
+    - MVVM
+    - MVC
+    - Fastlane
+    - Jenkins CI
+    - CocoaPods 
+    - Functional Reactive Programming
+    - Auto Layout
+    - Code Layout
+    - Localization
+    - i18n (Internationalization)
+    - iOS Extensions
+    - Push Notifications
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Freelance Mobile Lead and Consultant 
+- #company: RoadCast
+  logo: roadcast.png
+  link: https://roadcast.in
+  position: Freelance Mobile Lead & Consultant
+  duration:  Nov, 2015 &mdash; Jul, 2016
+  summary: I architectured and reengineerd the whole app to adapt the new business model. Mentored interns while on the job.
+  keywords:
+    - Objective-C
+    - Swift
+    - Realm
+    - Fastlane
+    - MVVM
+    - Offline First
+    - Realtime Location Services
+    - Maps
+    - Reactive Programming
+    - Push Notifications
+
+# Intern Web Developer at Accentium Web
+- #company: Accentium
+  logo: accentium.png
+  link: http://accentium.com
+  position: Intern Backend Developer
+  duration: Jul, 2011 &mdash; Aug, 2011
+  summary: I worked with the Backend team and the Content team in order to create functionality, using the existing APIs to control the web frontend newsfeed on Taaza.com, which placed the stories based on the weights and context.
+  keywords:
+    - PHP
+    - MySQL
+    - JavaScript
+    - HTML

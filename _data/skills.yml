@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Information Technology
+- skill: Information Technology
+  description: iOS Development <br> Swift <br> Objective-C <br> DevOps
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Project Management
+- skill: Project Management
+  description: Scrum <br> Kanban
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Design and UX
+- skill: Design and User Experience
+  description: Surveys <br> Customer interviews <br> Wireframing
+
+# Languages
+- skill: Languages
+  description: English (full working proficiency) <br> Hindi (native)
+
+# Organization Leadership
+- skill: Organization Leadership
+  description: I have years of experience leading and mentoring small teams
+
+# Marketing
+- skill: Marketing
+  description: Content Marketing
