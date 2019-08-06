@@ -1,5 +1,5 @@
 # Site settings
-title: "Anuj Rajput"
+title: "Anuj Rajput iOS Developer"
 description: "Anuj Rajput's resume"
 
 # Build settings
@@ -8,7 +8,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# plugins: 
+# gems: 
 #   - jekyll-pdf
 
 # Resume settings
