@@ -6,16 +6,16 @@
   position: Senior iOS Developer
   duration: Aug, 2017 &mdash; Mar, 2019
   summary: Wooplr is the largest online network of social sellers which empowers them to sell using their phones. My core responsibilities&colon; <ul class="resume-item-list"><li><strong>Product Management</strong></li><ul class="resume-item-list"><li><strong>Earnings Framework</strong>&colon; Conceptualised and built a framework for seller earning commissions and rewards</li><li><strong>Social Sharing</strong>&colon; Developed a model for social sharing which increased the sharing of the products and catalogues by a significant amount</li><li><strong>Communication</strong>&colon; Designed communication triggers and content for Email, SMS and In-app messaging, Notifications for the sellers and the customers on the platform</li></ul><li><strong>Development</strong></li><ul class="resume-item-list"><li>Developing the iOS App for sellers from scratch</li><li>Converting design specs into usable product</li></ul><li><strong>UX Research</strong></li><ul class="resume-item-list"><li>Understanding business goals.</li><li>Empathising with the customer (sellers) and understanding their needs, ambitions and goals by conducting studies and customer interviews.</li><li>Identifying problems in their workflows.</li></ul><li><strong>UX Design</strong></li><ul class="resume-item-list"><li>Designed user flows and wireframes</li></ul>
-  keywords:
-    - Product Management
-    - Objective-C
-    - Swift
-    - Realm
-    - Fastlane
-    - MVC
-    - Firebase
-    - Localization
-    - Push Notifications
+  # keywords:
+  #   - Product Management
+  #   - Objective-C
+  #   - Swift
+  #   - Realm
+  #   - Fastlane
+  #   - MVC
+  #   - Firebase
+  #   - Localization
+  #   - Push Notifications
 
 # Senior iOS Developer at MYOLO
 - #company: Vicinage Networks
@@ -24,18 +24,18 @@
   position: Senior iOS Developer
   duration:  Aug, 2016 &mdash; Jul, 2017
   summary: <li>Understanding the existing complex backend architecture and transforming the available APIs into a well architectured iOS App</li><li>Designed, developed and delivered the iOS App from scratch</li><li>Helped the team understand the business by identifying the problems and coming up with solutions</li>
-  keywords:
-    - Objective-C
-    - Swift
-    - MVC
-    - Fastlane
-    - Location Services
-    - Maps
-    - Firebase
-    - Analytics
-    - Social Login
-    - Messaging
-    - Push Notifications
+  # keywords:
+  #   - Objective-C
+  #   - Swift
+  #   - MVC
+  #   - Fastlane
+  #   - Location Services
+  #   - Maps
+  #   - Firebase
+  #   - Analytics
+  #   - Social Login
+  #   - Messaging
+  #   - Push Notifications
 
 # Senior Software Engineer at Teamie
 - #company: Teamie
@@ -44,23 +44,23 @@
   position: Senior Software Engineer
   duration:  Jul, 2012 &mdash; Jul, 2016
   summary: Teamie is a cloud-based collaborative learning platform. My responsibilities included&colon; <ul class="resume-item-list"><li>Developing and maintaining the core product on iOS</li><li>Building reusable frameworks and common libraries for use in different apps</li><li>Developing and maintaining side projects for clients</li><li>Ideated, planned, designed and developed a side project for Ministry of Education, Malaysia. The project was used by ~1 million school teachers and educators across Malaysia</li><li>Hiring, leading and mentoring the team</li></ul>
-  keywords: 
-    - Objective-C
-    - Swift
-    - Core Data
-    - Manual Memory Management
-    - MVVM
-    - MVC
-    - Fastlane
-    - Jenkins CI
-    - CocoaPods 
-    - Functional Reactive Programming
-    - Auto Layout
-    - Code Layout
-    - Localization
-    - i18n (Internationalization)
-    - iOS Extensions
-    - Push Notifications
+  # keywords: 
+  #   - Objective-C
+  #   - Swift
+  #   - Core Data
+  #   - Manual Memory Management
+  #   - MVVM
+  #   - MVC
+  #   - Fastlane
+  #   - Jenkins CI
+  #   - CocoaPods 
+  #   - Functional Reactive Programming
+  #   - Auto Layout
+  #   - Code Layout
+  #   - Localization
+  #   - i18n (Internationalization)
+  #   - iOS Extensions
+  #   - Push Notifications
 
 # Freelance Mobile Lead and Consultant 
 - #company: RoadCast
@@ -69,17 +69,17 @@
   position: Freelance Mobile Lead & Consultant
   duration:  Nov, 2015 &mdash; Jul, 2016
   summary: I architectured and reengineerd the whole app to adapt the new business model. Mentored interns while on the job.
-  keywords:
-    - Objective-C
-    - Swift
-    - Realm
-    - Fastlane
-    - MVVM
-    - Offline First
-    - Realtime Location Services
-    - Maps
-    - Reactive Programming
-    - Push Notifications
+  # keywords:
+  #   - Objective-C
+  #   - Swift
+  #   - Realm
+  #   - Fastlane
+  #   - MVVM
+  #   - Offline First
+  #   - Realtime Location Services
+  #   - Maps
+  #   - Reactive Programming
+  #   - Push Notifications
 
 # Intern Web Developer at Accentium Web
 - #company: Accentium
@@ -88,8 +88,8 @@
   position: Intern Backend Developer
   duration: Jul, 2011 &mdash; Aug, 2011
   summary: I worked with the Backend team and the Content team in order to create functionality, using the existing APIs to control the web frontend newsfeed on Taaza.com, which placed the stories based on the weights and context.
-  keywords:
-    - PHP
-    - MySQL
-    - JavaScript
-    - HTML
+  # keywords:
+  #   - PHP
+  #   - MySQL
+  #   - JavaScript
+  #   - HTML

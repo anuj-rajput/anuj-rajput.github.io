@@ -3,6 +3,9 @@
 - skill: Information Technology
   description: iOS Development <br> Swift <br> Objective-C <br> DevOps
 
+- skill: iOS Development
+  description: Analytics, Auto Layout, CocoaPods, Code Layout, Core Data, Fastlane, Firebase, Functional Reactive Programming, i18n (Internationalization), iOS Extensions, Jenkins CI, Localization, Location Services, Memory Management, Maps, Messaging, MVC, MVVM, Offline First, Push Notifications, Realm, Social Login
+
 # Project Management
 - skill: Project Management
   description: Scrum <br> Kanban
