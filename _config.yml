@@ -17,13 +17,13 @@ resume_name:                    "Anuj Rajput"
 resume_title:                   "Mobile/iOS Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "anujrajput04@gmail.com"
+resume_contact_email:           "me@anujrajput.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       ""
 resume_contact_address:         "Bengaluru, India"
 
-resume_header_contact_info:     "Bengauru, India • anujrajput04 [at] gmail [dot] com"
+resume_header_contact_info:     "Bengauru, India • me [at] anujrajput [dot] com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I'm a generalist iOS Engineer.  I like to build apps on the iOS Platform which are high performing and super easy to use. I like to build on new and upcoming technologies and open to any domain.</p>"
@@ -48,7 +48,7 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  # resume_github_url:            "https://github.com/anuj-rajput"
+  resume_github_url:            "https://github.com/anuj-rajput"
   resume_twitter_url:           "https://twitter.com/anujrajput"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
